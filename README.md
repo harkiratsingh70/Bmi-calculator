@@ -15,6 +15,9 @@ BMI Calculator A sleek and simple Body Mass Index (BMI) Calculator built using H
 
 Screenshot of the BMI Calculator UI--- 
 
+🔗 Live Demo
+
+[👉 Click here to view the live page](https://harkiratsingh70.github.io/Bmi-calculator/)
 
 ⚙️ How It Works
 1. Enter your height in centimeters 
